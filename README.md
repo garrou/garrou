@@ -24,3 +24,8 @@ Bachelor of science, bachelor MIAGE.
 
 ![Alt text](cs.png?raw=true "C#")
 ![Alt text](visual-basic.png?raw=true "VB")
+
+## Projects
+
+<a href="https://1-irda.alwaysdata.net/">Peronnal website</a>     
+<a href="https:/seriesmanager.alwaysdata.net">SeriesManager</a>  
