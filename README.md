@@ -4,19 +4,20 @@
 
 Bachelor of science, bachelor MIAGE.  
 
-## With my studies :  
+## With my studies
 
 ![Alt text](java.png?raw=true "Java")
-![Alt text](c.png?raw=true "C")
-![Alt text](gnu-bash.png?raw=true "Bash")
-![Alt text](mysql.png?raw=true "MySQL")
 ![Alt text](php.png?raw=true "PHP")
+![Alt text](c.png?raw=true "C")
+![Alt text](mysql.png?raw=true "MySQL")
+![Alt text](gnu-bash.png?raw=true "Bash")
 
 ## Self-taught
 
 ![Alt text](python.png?raw=true "Python")
 ![Alt text](nodejs.png?raw=true "NodeJS")
 ![Alt text](javascript.png?raw=true "JS")
+![Alt text](cpp.png?raw=true "C++")
 ![Alt text](powershell.png?raw=true "Powershell")
 
 ## In intership
