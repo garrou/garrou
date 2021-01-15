@@ -28,4 +28,4 @@ Bachelor of science, bachelor MIAGE.
 ## Projects
 
 <a href="https://1irda.alwaysdata.net/"><img width="64" height ="64" src="images/perso.png"></a>    
-<a href="https://seriesmanager.alwaysdata.net/">SeriesManager</a>  
+<a href="https://seriesmanager.alwaysdata.net/"><img width="64" height ="64" src="images/seriesmanager.png"></a>  
