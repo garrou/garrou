@@ -4,6 +4,8 @@
 
 Bachelor of science, bachelor MIAGE.  
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1-irdA&hide=html)
+
 ## With my studies
 
 ![Alt text](images/java.png?raw=true "Java")
