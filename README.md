@@ -4,7 +4,7 @@
 
 Bachelor of science, bachelor MIAGE.  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1-irdA&exclude_repo=SeriesManager,Website&langs_count=10&layout=compact&hide=html,css)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1-irdA&exclude_repo=SeriesManager,Website&langs_count=10&layout=compact&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
 
 ## With my studies
 
