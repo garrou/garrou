@@ -1,6 +1,6 @@
 ### Adrien Garrouste
 
-20 years old, passionate and self-taught.  
+21 years old, passionate and self-taught.  
 
 Bachelor of science, bachelor MIAGE.  
 
