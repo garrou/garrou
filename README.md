@@ -4,6 +4,8 @@
 
 Master MIAGE at Toulouse 3 Sabatier.  
 
+[Lang's stats](https://github-readme-stats.vercel.app/api/top-langs/?username=1-irdA&langs_count=8&hide=sql&layout=compact)
+
 ## Deployed web projects
 
 • <a href="https://1irda.alwaysdata.net/">Personnal website</a>   
