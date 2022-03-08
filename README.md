@@ -4,7 +4,7 @@
 
 Master MIAGE at Toulouse 3 Sabatier.  
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=1-irdA&langs_count=8&hide=sql&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs/?username=1-irdA&langs_count=8&hide=sql&layout=compact)
+[![Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=1-irdA&langs_count=8&hide=sql&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs/?username=1-irdA&langs_count=8&hide=sql&layout=compact)
 
 ## Deployed web projects
 
@@ -16,5 +16,4 @@ Master MIAGE at Toulouse 3 Sabatier.
 
 • <a href="https://github.com/1-irdA/bike-life">bike-life</a>   
 • <a href="https://github.com/1-irdA/bike-life-services">bike-life-services</a>   
-• <a href="https://github.com/1-irdA/ui-series-manager">ui-series-manager</a>   
-• <a href="https://github.com/1-irdA/services-series-manager">services-series-manager</a>   
+• <a href="https://github.com/1-irdA/leetcode">leetcode</a>
