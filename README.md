@@ -1,6 +1,6 @@
 ### Adrien Garrouste
 
-21 years old, passionate and self-taught.  
+22 years old, passionate and self-taught.  
 
 Master MIAGE at Toulouse 3 Sabatier.  
 
