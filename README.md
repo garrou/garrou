@@ -17,4 +17,5 @@ Master MIAGE at Toulouse 3 Sabatier.
 
 • <a href="https://github.com/1-irdA/bike-life">bike-life</a>   
 • <a href="https://github.com/1-irdA/bike-life-services">bike-life-services</a>   
-• <a href="https://github.com/1-irdA/leetcode">leetcode</a>
+• <a href="https://github.com/1-irdA/leetcode">leetcode</a>   
+• <a href="https://github.com/1-irdA/seriesmanager-services">seriesmanager-services</a>
