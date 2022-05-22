@@ -12,7 +12,7 @@ Master MIAGE at Toulouse 3 Sabatier.
 • <a href="https://seriesmanager.alwaysdata.net">Series manager</a>    
 • <a href="https://brain-trainer.alwaysdata.net">Brain trainer</a>   
 • <a href="https://bikeslife.fr">Bike's life</a>   
-• <a href="https://ceb-ui.herokuapp.com">Compte est bon</a>   
+• <a href="https://ceb-ui.herokuapp.com">Solveur du compte est bon</a>   
 
 ## Currently working on
 
