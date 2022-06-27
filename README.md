@@ -4,7 +4,7 @@
 
 MS student at Toulouse.     
 
-[![Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=1-irdA&langs_count=8&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs/?username=1-irdA&langs_count=8&layout=compact)
+[![Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=garrou&langs_count=8&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs/?username=1-irdA&langs_count=8&layout=compact)
 
 ## Networks
 
@@ -23,6 +23,6 @@ MS student at Toulouse.
 
 ## Currently working on
 
-• <a href="https://github.com/1-irdA/leetcode">leetcode</a>   
-• <a href="https://github.com/1-irdA/seriesmanager">seriesmanager</a>   
-• <a href="https://github.com/1-irdA/seriesmanager-services">seriesmanager-services</a>
+• <a href="https://github.com/garrou/leetcode">leetcode</a>   
+• <a href="https://github.com/garrou/seriesmanager">seriesmanager</a>   
+• <a href="https://github.com/garrou/seriesmanager-services">seriesmanager-services</a>
