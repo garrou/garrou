@@ -9,6 +9,16 @@
 
 <div style="text-align: center;">
 
+<a href="https://www.linkedin.com/in/adrien-garrouste-7b747117b">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+</div>
+
+<h3 style="text-align: center;">Works</h3>
+
+<div style="text-align: center;">
+
 <a href="https://hub.docker.com/u/garrou">
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
 </a>
@@ -27,14 +37,6 @@
 
 <a href="https://www.freecodecamp.org/1-irdA">
   <img src="https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green">
-</a>
-
-<a href="https://stackoverflow.com/users/10050678/1-irda">
-  <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white">
-</a>
-
-<a href="https://www.linkedin.com/in/adrien-garrouste-7b747117b">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
 </div>
