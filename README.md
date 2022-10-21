@@ -1,9 +1,15 @@
-<h2 style="text-align: center;">Adrien Garrouste</h2>
+<h2>Adrien Garrouste</h2>
 
-<div style="text-align: center;">
-    <p>22 years old, passionate and self-taught.</p>
-    <p>MS student at Toulouse.</p>
-</div>
+<p>22 years old.</p>
+<p>MS student at Toulouse.</p>
+
+<p>The areas that interest me are :</p>
+<ul>
+    <li>Backend development</li>
+    <li>DevSecOps</li>
+    <li>Blockchain</li>
+    <li>Security</li>
+</ul>
 
 <h3>Networks</h3>
 
