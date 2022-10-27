@@ -1,8 +1,3 @@
-<h2>Adrien Garrouste</h2>
-
-<p>22 years old.</p>
-<p>MS student at Toulouse.</p>
-
 <p>The areas that interest me are :</p>
 <ul>
     <li>Backend development</li>
