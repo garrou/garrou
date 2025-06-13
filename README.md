@@ -2,13 +2,12 @@
 <ul>
     <li>Backend development</li>
     <li>DevSecOps</li>
-    <li>Blockchain</li>
     <li>Security</li>
 </ul>
 
 <h3>Networks</h3>
 
-<a href="https://www.linkedin.com/in/adrien-garrouste-7b747117b">LinkedIn</a>
+<a href="https://www.linkedin.com/in/adriengarrouste">LinkedIn</a>
 
 <h3>Works</h3>
 
